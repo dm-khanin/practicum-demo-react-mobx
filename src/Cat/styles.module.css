@@ -1,0 +1,7 @@
+.cat {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 1px solid black;
+}
